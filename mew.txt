@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>mew</title>
+
+<link rel="stylesheet" href="style.css"/>
+
+</head>
+
+<img src="img/mew.jpg" alt="Gambar Article"/>
+
+<body>
+  <p> Nama aktor Thailand Mew Suppasit atau Suppasit Jongcheveevat menjadi trending pertama di akun media sosial Twitter beberapa negara. 
+      Kehebohan ini bermula ketika Mew dianggap telah dengan sengaja meniru konsep video musik Jaehyun NCT yang merupakan cover lagu "I Like Me Better" milik Lauv. 
+      Dalam konferensi pers yang digelar Kamis (4/3/2021), Mew didampingi pengacaranya, mengklarifikasi masalah plagiat video musik Jaehyun NCT yang ramai dibicarakan. 
+      Mew meminta maaf karena menimbulkan hal yang memalukan. "Saya ingin mengatakan kalau saya benar-benar merasa bersalah tentang hal ini, dan saya tidak ingin
+      kejadian seperti ini terulang lagi," kata Mew. Mew menegaskan kalau tidak ada maksud untuk meniru atau membuatnya serupa. Aktor yang dikenal lewat Tharn Type 
+      Series ini juga mengaku kalau baru melihat video musik Jaehyun setelah ramai dibicarakan dan membuat konflik antara penggemarnya dan juga penggemar Jaehyun NCT. 
+      "Saya ingin meminta maaf pada banyak orang terutama pada penggemar baik penggemar saya atau Jaehyun. Semua penggemar yang mengikuti berita tentang insiden ini 
+      dan merasa tidak enak dengan ini. Saya benar-benar minta maaf," kata Mew. Setelah menyampaikan permintaan maaf, penggemar ramai membuat #StayStrongWithMew. 
+      "Kamu sudah mengatakan maaf, kamu telah merasa bersalah, sudah selesai. Kembalilah ke tempat kamu seharusnya, dikelilingi orang-orang yang mengagumimu,
+      " tulis akun @lyh83668. "Kesalahan yang mereka buat adalah membully Mew. Karena mereka membully Mew membantu kami lebih mencintainya," tulis akun 
+       @NigeriaMewlions. "Jangan sakiti dia lagi. Dia pria baik, semua orang menyayanginya," tulis akun @adnxxzhry. "Perlu jiwa yang berani untuk meminta maaf atas 
+       hal yang bahkan kamu tidak salah. Tapi kami tahu maksudmu," tulis akun @btsburger_twt. Sebelum masalah semakin besar, sebenarnya pihak studio Mew Suppasit 
+       Studio (MSS) telah tiga kali mengirim permintaan maaf dan telah menghapus video yang dimaksud, tapi selama delapan hari Mew terus diserang di media sosial.</p>
+
+</body>
+</html>	  

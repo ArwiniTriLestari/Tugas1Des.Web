@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<HTML>
+ <head>
+ <title>Artikel A.Arwini Tri Lestari</title>
+ <link rel="stylesheet" href="style.css"/>
+ </head>
+ <body>
+ <div id="wrapper">
+     <header>
+         <figure>
+	    	  <img src="img/logo.png" alt="logo"/>
+	 	 </figure>
+	     <ul id="menu-utama">
+		 <li><a href="index.html">Home</a></li>
+		 <li><a href="service.html">Service</a></li>
+		 <li><a href="aboutus.html">About us</a></li>
+		 <li><a href="contactus.html">Contact us</a></li>
+	     </ul>
+		 <form>
+	 	 <input type="text" name="search"/>
+	 	 </form>
+     </header><!--Penutup div "header"-->
+ <div id="daftar-article">
+     <article>
+	 	 <img src="img/lazada.jpg" alt="Gambar Article"/>
+	 	 <h1> Katy Perry, NCT Dream, hingga Agnez Mo di Acara 9 Tahun Lazada</h1>
+	 	 <b>Mar 26, 2021</b><b>Views : 3,487,497</b>
+	 	 <p>Merayakan ulang tahunnya yang ke-9, perusahaan e-commerce Lazada menyelenggarakan serangkaian program seru selama dua minggu.</p>
+		 <p> festival belanja, ada jua acara hiburan live streaming. Dalam acara puncak yang digelar 26 Maret 2021, sederet artis 
+         <p>ternama yang akan memeriahkan antara lain Raisa,</p>
+	 	<a href="lazada.html">Watch This</a>
+     </article><!--Penutup div "article"-->
+     <article>
+	  	 <img src="img/wayv.jpg" alt="Gambar Article"/>
+	  	 <h1> Sebut Nama Anya Geraldine, WAYV Buat Geger Penggemar</h1>
+	  	 <b>Mar 25, 2021</b><b>Views : 3,487,497</b>
+	  	 <p>Selebgram Anya Geraldine buat Wayzenie (penggemar WAYV) heboh karena namanya tiba-tiba disebut oleh sub unit NCT nyang fokus</p>
+         <p>di pasar China. WAYV diketahui menjadi tamu spesial di acara Insert Fashion Awards 2021,</p>
+	  	 <a href="wayv.html">Watch This</a>
+     </article><!--Penutup div "article"-->
+     <article>
+	  	 <img src="img/mew.jpg" alt="Gambar Article"/>
+	  	 <h1> Heboh Dukungan untuk Mew Suppasit Setelah Dituding Meniru Video Jaehyun NCT</h1>
+	  	 <b>Mar 04, 2021</b><b>Views : 3,487,497</b>
+	  	 <p>Nama aktor Thailand Mew Suppasit atau Suppasit Jongcheveevat menjadi trending pertama di akun media sosial Twitter beberapa negara.</p>
+		 <p>Kehebohan ini bermula ketika Mew dianggap telah dengan sengaja meniru konsep video musik Jaehyun NCT yang merupakan cover lagu</p>
+         <p>"I Like Me Better" milik Lauv. Dalam konferensi</p>
+	  	 <a href="mew.html">Watch This</a>
+     </article><!--Penutup div "article"-->
+ </div><!--Penutup div "daftar-article"-->
+     <aside>
+	   	 <h2>Apa itu Kompas.com?</h2>
+	   	 <p>Kompas.com adalah sebuah portal web yang berisi berita dan artikel daring di Indonesia. Kompas.com merupakan salah satu situs </p>
+         <p>berita terpopuler di Indonesia. Berbeda dari situs-situs berita berbahasa Indonesia lainnya, Kompas.com hanya mempunyai edisi</p>
+         <p>daring dan menggantungkan pendapatan dari bidang iklan. Meskipun begitu, Kompas.com merupakan yang terdepan dalam hal berita-berita</p>
+         <p>baru (breaking news). Sejak tahun 1995, Kompas.com menjadi bagian dari Kompas Gramedia</p>
+	   	 <h2>Article berdasarkan kategori</h2>
+	     <ul>
+			 <li><a href="">Tren</a></li>
+			 <li><a href="">Edukasi</a></li>
+			 <li><a href="">Tekhnologi</a></li>
+			 <li><a href="">Travel</a></li>
+			 <li><a href="">Lifestyle</a></li>
+	    	 </ul>
+     </aside><!--Penutup div "aside"-->
+ <footer>
+	 <p>Desain Web copyrigth 2017 by A.Arwini Tri Lestari</p>
+ </footer>
+ </div>
+ </div><!--Penutup div "wrapper"-->
+ </body>
+</html>
